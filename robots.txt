@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://senthrei.github.io/sitemap.senthrei.gz
+Sitemap: https://senthrei.github.io/app/sitemap.senthrei.gz
+Sitemap: https://senthrei.github.io/assets/sitemap.senthrei.gz
+Sitemap: https://senthrei.github.io/css/sitemap.senthrei.gz
+Sitemap: https://senthrei.github.io/data/sitemap.senthrei.gz
+Sitemap: https://senthrei.github.io/includes/sitemap.senthrei.gz
+Sitemap: https://senthrei.github.io/item/sitemap.senthrei.gz
+Sitemap: https://senthrei.github.io/src/sitemap.senthrei.gz
